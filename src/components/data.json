@@ -1,0 +1,1074 @@
+[{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_13"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_13",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+
+{
+    "_class": "hudson.slaves.SlaveComputer",
+
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_13"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_14",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": true,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_13"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_15",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_13"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_16",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_17",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+
+{
+    "_class": "hudson.slaves.SlaveComputer",
+
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_13"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_18",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_19"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_19",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_20",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": true,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": true,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_21",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_22",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": true,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_23",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": true,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_24",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_25",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_26",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": true,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+},
+{
+    "_class": "hudson.slaves.SlaveComputer",
+    "actions": [{}, {
+        "_class": "hudson.plugins.jobConfigHistory.ComputerConfigHistoryAction"
+    }, {}, {}, {}],
+    "assignedLabels": [{
+        "name": "SPITFIRE_FRM_17"
+    }, {
+        "name": "spitfire_generic_5171_stage1"
+    }, {
+        "name": "spitfire_generic_5171_stage2"
+    }, {
+        "name": "spitfire_hello_world_5171_stage1"
+    }, {
+        "name": "spitfire_hello_world_5171_stage2"
+    }],
+    "description": "Spitfire CI/CD Node for Hello World and for Spitfire Generic Rig Pools - USMA-398K8B3 - Spitfire Configuration - 5171 Vanilla Boards",
+    "displayName": "SPITFIRE_FRM_27",
+    "executors": [{}, {}],
+    "icon": "computer.png",
+    "iconClassName": "icon-computer",
+    "idle": true,
+    "jnlpAgent": true,
+    "launchSupported": false,
+    "loadStatistics": {
+        "_class": "hudson.model.Label$1"
+    },
+    "manualLaunchAllowed": true,
+    "monitorData": {
+        "hudson.node_monitors.SwapSpaceMonitor": {
+            "_class": "hudson.node_monitors.SwapSpaceMonitor$MemoryUsage2",
+            "availablePhysicalMemory": 7381098496,
+            "availableSwapSpace": 8983027712,
+            "totalPhysicalMemory": 16881143808,
+            "totalSwapSpace": 19431280640
+        },
+        "hudson.node_monitors.TemporarySpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260952,
+            "path": "C:\\Users\\whamauto\\AppData\\Local\\Temp",
+            "size": 824165797888
+        },
+        "hudson.node_monitors.DiskSpaceMonitor": {
+            "_class": "hudson.node_monitors.DiskSpaceMonitorDescriptor$DiskSpace",
+            "timestamp": 1676981260963,
+            "path": "C:\\Users\\whamauto",
+            "size": 824165797888
+        },
+        "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor": {
+            "_class": "com.synopsys.arc.jenkins.plugins.ownership.nodes.OwnershipNodeMonitor$Data",
+            "timestamp": 1676981260778
+        },
+        "hudson.node_monitors.ArchitectureMonitor": "Windows 10 (amd64)",
+        "hudson.node_monitors.ResponseTimeMonitor": {
+            "_class": "hudson.node_monitors.ResponseTimeMonitor$Data",
+            "timestamp": 1676981260948,
+            "average": 311
+        },
+        "hudson.node_monitors.ClockMonitor": {
+            "_class": "hudson.util.ClockDifference",
+            "diff": 90
+        }
+    },
+    "numExecutors": 2,
+    "offline": false,
+    "offlineCause": null,
+    "offlineCauseReason": "",
+    "oneOffExecutors": [],
+    "temporarilyOffline": false,
+    "absoluteRemotePath": "C:\\Users\\whamauto"
+}
+
+
+]

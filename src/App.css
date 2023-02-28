@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h4{
+  margin: 30px;
+  text-align: left;
+}
+
+table.user-table{
+  width: 200px;
+  height: auto;
+  max-height: 100px;
+  overflow-y: scroll;
+  margin-left: 30px;
+
+}
+table.user-table td{
+  height: 10px;
+  width: 200px;
+  font-size: small;
+}
+table.user-table th{
+  height: 20px;
+  width: 100px;
+  font-size: small;
+}
+
+table.status-table{
+  height: 400px;
+  width: 10000px; 
+  margin-left: -45px;
+
+ 
+
+}
+table.status-table td{
+  height: 100px;
+  width: 200px;
+} 
+
+table, td, th {  
+  border: none;
+  text-align: center;
+  align-items: center;
+  
+}
+
+table {
+  width: auto ;
+  text-align: center;
+  align-items: center;
+  overflow: unset;
+
+}
+
+
+
+.custom-checkbox input[type="checkbox"]{
+margin-left: 30px;
+}
